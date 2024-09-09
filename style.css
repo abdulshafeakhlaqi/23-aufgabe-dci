@@ -1,0 +1,63 @@
+h1{
+    font-size: 4em;
+    text-align: center;
+}
+
+h2{
+    font-size: 2em;
+    text-align: center;
+}
+h2>span{
+    background-color: rgb(245, 215, 149);
+}
+img {
+    width: 90vw;
+    display: block;
+    margin: auto;
+    height: 60vh;
+    object-fit: cover;
+    object-position:0 10%;
+}
+main{
+    width: 90vw;
+    margin: auto;
+    background-color: rgb(190, 190, 190);
+    box-sizing: border-box;
+    padding: 0.5em;
+}
+ul{
+    margin: 0;
+    list-style: none;
+}
+.li-title {
+    font-weight: 900;
+}
+.inline-p{
+    display: inline;
+} 
+li{
+    padding: 0.8rem;
+}
+
+.speech-con {
+    width: 40vw;
+    margin: 2em auto;
+    background-color: gainsboro;
+    padding: 2em;
+}
+.important {
+    font-weight: 900;
+}
+footer{
+    padding: 1em;
+    width: 90vw;
+    margin: auto;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    box-sizing: border-box;
+}
+
+a{
+    color: rgb(225, 225, 255);
+}
